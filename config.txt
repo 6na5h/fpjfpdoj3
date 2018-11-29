@@ -1,4 +1,4 @@
-﻿token=NTE3MDE2Nzk4ODM1NjM4Mjky.Dt8GuQ.umAl4ui7lVbA1SEbvidsVHtgYLY
+token=NTE3Nzk0MjQ3MzQxMjQ0NDE4.DuHZdg.kAQVT1oMct7wQ94lsTmKqT_Zz50
 owner=509719956473249802
 prefix= G
 game= Gplay
