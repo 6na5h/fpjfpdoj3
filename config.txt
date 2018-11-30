@@ -1,6 +1,6 @@
 token=NTE3Nzk0MjQ3MzQxMjQ0NDE4.DuHZdg.kAQVT1oMct7wQ94lsTmKqT_Zz50
-owner=482257225880961074
-prefix= wo
-game= woplay
+owner=343809135856320512
+prefix= K
+game= Koplay
 stayinchannel=true
 songinstatus=true 
